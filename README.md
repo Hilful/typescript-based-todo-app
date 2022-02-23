@@ -9,15 +9,7 @@ to create simple frontend todo application.
 - TypeScript
 - Tailwind
 
-### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Open [https://simple-typescript-based-todo-app.netlify.app/](https://simple-typescript-based-todo-app.netlify.app/) to view it in the browser.
 
-### `contribution`
 
-Feel free to create an issue or PR if you:
-
-- have noticed a bug
-- have better UI/UX
-- refactor components
