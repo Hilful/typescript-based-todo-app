@@ -1,9 +1,9 @@
-# TODO APP
+# Simple Todo Application
 
-The goal of this project is to implement basic methods and functionalities\
+This project focus on the basic methods and functionalities\
 to create simple frontend todo application.
 
-## Tech stack
+## Technologies that I have used to create this application:
 
 - React
 - TypeScript
